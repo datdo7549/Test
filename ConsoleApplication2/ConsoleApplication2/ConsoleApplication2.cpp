@@ -140,6 +140,7 @@ int main(int argc, const char * argv[])
 	//QInt phat = p.second;
 	//cout << phat.toBinString();
 	Doc(argv[1]);
+	//ok code
 	system("pause");
 	return 0;
 }
